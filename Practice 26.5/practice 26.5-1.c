@@ -1,4 +1,4 @@
-///1
+///1,pointer
 #include<stdio.h>
 int main()
 {

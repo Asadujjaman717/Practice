@@ -1,3 +1,4 @@
+///3,using pointer
 #include<stdio.h>
 int main()
 {

@@ -1,4 +1,4 @@
-///2
+///2,pointer
 #include<stdio.h>
 void bubblesort(int* arr[],int* n)
 {
